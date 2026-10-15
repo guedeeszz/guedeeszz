@@ -28,9 +28,9 @@
 
 <img align="right" width="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer coding animation"/>
 
-name: Luiz
+name: Luiz Gedes
 
-role: Estudante de Programação
+atuação: Estudante de Programação
 
 mission: Construir soluções através do código
 
