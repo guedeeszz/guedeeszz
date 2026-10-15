@@ -84,19 +84,19 @@ Meu objetivo é construir uma carreira sólida em desenvolvimento, especialmente
 
 
 
-Consolidar os fundamentos da programação.
+-Consolidar os fundamentos da programação.
 
-Praticar resolução de problemas.
+-Praticar resolução de problemas.
 
-Desenvolver projetos próprios.
+-Desenvolver projetos próprios.
 
-Aprender bancos de dados e SQL.
+-Aprender bancos de dados e SQL.
 
-Aprimorar meus conhecimentos em Git e GitHub.
+-Aprimorar meus conhecimentos em Git e GitHub.
 
-Construir um portfólio profissional.
+-Construir um portfólio profissional.
 
-Buscar uma oportunidade na área de tecnologia.
+-Buscar uma oportunidade na área de tecnologia.
 
 05 // GitHub Analytics
 
