@@ -62,55 +62,26 @@ Meu objetivo é construir uma carreira sólida em desenvolvimento, especialmente
 
 Os ícones representam tecnologias para estudo e exploração. Mantenha somente aquelas que você já está estudando ou utilizando.
 
-Ferramentas
+-Ferramentas
 
-Ferramenta
+-Utilização
 
-Utilização
+-Visual Studio Code
 
-Visual Studio Code
+-Escrever e testar código
 
-Escrever e testar código
+-Git
 
-Git
+-Controle de versões
 
-Controle de versões
+-GitHub
 
-GitHub
+-Hospedar projetos e acompanhar minha evolução
 
-Hospedar projetos e acompanhar minha evolução
+-MySQL
 
-MySQL
+-Aprender bancos de dados relacionais
 
-Aprender bancos de dados relacionais
-
-03 // My Repositories
-
-<div align="center">
-
-<samp>MY CODE. MY PROJECTS. MY EVOLUTION.</samp>
-
-<br/><br/>
-
-  <a href="https://github.com/SEU_USUARIO?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="Explore repositories"/>
-  </a>
-
-</div>
-
-Aqui ficam meus projetos, exercícios e experimentos de programação.
-
-Cada repositório representa uma oportunidade de praticar, aprender algo novo e melhorar minhas habilidades como desenvolvedor.
-
-Novos projetos serão adicionados conforme minha evolução.
-
-04 // Current Objectives
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/LUIZ_OS-DEVELOPMENT_TERMINAL-FFFFFF?style=for-the-badge&logo=windowsterminal&logoColor=FFFFFF&labelColor=000000" alt="Development terminal"/>
-
-</div>
 
 ┌──────────────────────────────────────────────────────┐
 │  LUIZ_OS :: DEVELOPMENT TERMINAL                     │
