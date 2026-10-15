@@ -83,27 +83,6 @@ Meu objetivo é construir uma carreira sólida em desenvolvimento, especialmente
 -Aprender bancos de dados relacionais
 
 
-                                                ┌──────────────────────────────────────────────────────┐
-                              │  LUIZ_OS :: DEVELOPMENT TERMINAL                     │
-                     ├──────────────────────────────────────────────────────┤
-              │                                                      │
-      │  luiz@github:~$ ./growth.sh                          │
-      │  [01] Fortalecer a lógica de programação             │
-│  [02] Praticar exercícios e desafios                 │
-│  [03] Aprender SQL e modelagem de dados              │
-│  [04] Desenvolver projetos para o portfólio          │
-│  [05] Aprimorar Git e GitHub                         │
-│  [06] Estudar boas práticas de desenvolvimento       │
-│  [07] Preparar-me para oportunidades em tecnologia   │
-│                                                      │
-│  luiz@github:~$ status                               │
-│                                                      │
-│  STATUS: LEARNING                                    │
-│  MODE: BUILDING SKILLS                               │
-│  MISSION: BECOME A SOFTWARE DEVELOPER                │
-│                                                      │
-│  luiz@github:~$                                      │
-└──────────────────────────────────────────────────────┘
 
 Consolidar os fundamentos da programação.
 
