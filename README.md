@@ -20,18 +20,20 @@
 
 01 // Sobre Mim
 
-name: Luiz
+Nome: Luiz
 
-atuação no momento: Estudante de Programação
+Atuação no momento: Estudante de Programação
 
-focus: Desenvolvimento de Software
+Foco: Desenvolvimento de Software
 
-interests:
+Interesses:
   - Lógica de Programação
   - Banco de Dados
   - Tecnologia
   - Sistemas Bancários
-goal: Construir uma carreira em tecnologia
+
+Objetivo: Construir uma carreira em tecnologia
+
 mindset: Aprendizado contínuo
 
 Sou estudante de programação e estou construindo minha jornada no desenvolvimento de software.
