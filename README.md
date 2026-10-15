@@ -29,9 +29,13 @@
 <img align="right" width="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer coding animation"/>
 
 name: Luiz
+
 role: Estudante de Programação
+
 mission: Construir soluções através do código
+
 mindset: Curiosidade > Consistência > Evolução
+
 currently_learning:
   - Lógica de Programação
   - Desenvolvimento de Software
