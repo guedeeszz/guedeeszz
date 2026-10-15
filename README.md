@@ -60,7 +60,7 @@ Meu objetivo é construir uma carreira sólida em desenvolvimento, especialmente
 
 </div>
 
-Os ícones representam tecnologias para estudo e exploração. Mantenha somente aquelas que você já está estudando ou utilizando.
+
 
 -Ferramentas
 
@@ -83,13 +83,12 @@ Os ícones representam tecnologias para estudo e exploração. Mantenha somente 
 -Aprender bancos de dados relacionais
 
 
-┌──────────────────────────────────────────────────────┐
-│  LUIZ_OS :: DEVELOPMENT TERMINAL                     │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  luiz@github:~$ ./growth.sh                          │
-│                                                      │
-│  [01] Fortalecer a lógica de programação             │
+                                                ┌──────────────────────────────────────────────────────┐
+                              │  LUIZ_OS :: DEVELOPMENT TERMINAL                     │
+                     ├──────────────────────────────────────────────────────┤
+              │                                                      │
+      │  luiz@github:~$ ./growth.sh                          │
+      │  [01] Fortalecer a lógica de programação             │
 │  [02] Praticar exercícios e desafios                 │
 │  [03] Aprender SQL e modelagem de dados              │
 │  [04] Desenvolver projetos para o portfólio          │
