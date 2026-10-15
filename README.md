@@ -21,8 +21,11 @@
 01 // Sobre Mim
 
 name: Luiz
-role: Estudante de Programação
+
+atuação no momento: Estudante de Programação
+
 focus: Desenvolvimento de Software
+
 interests:
   - Lógica de Programação
   - Banco de Dados
